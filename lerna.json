@@ -1,11 +1,13 @@
 {
-  "npmClient": "inpm",
   "packages": [
     "packages/*"
   ],
   "command": {
+    "bootstrap": {
+      "npmClientArgs": ["--registry", "http://r.npm.innotechx.com"]
+    },
     "publish": {
-      "npmClient": "inpm"
+      "npmClientArgs": ["--registry", "http://r.npm.innotechx.com"]
     }
   },
   "version": "independent"
