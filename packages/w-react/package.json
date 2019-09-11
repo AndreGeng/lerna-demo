@@ -1,6 +1,6 @@
 {
   "name": "w-react",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "> TODO: description",
   "author": "shanqiu <gengze@innotechx.com>",
   "homepage": "",
@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@mt/mock-cli": "^1.2.3",
-    "dep1": "^1.0.1"
+    "dep1": "^1.0.2"
   },
   "gitHead": "5d49d1235f174e78627c6b38bf199ff190cdd322"
 }
