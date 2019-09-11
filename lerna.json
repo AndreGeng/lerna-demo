@@ -7,9 +7,6 @@
       "npmClientArgs": ["--registry", "http://r.npm.innotechx.com"]
     },
     "publish": {
-    },
-    "publishConfig": {
-      "registry": "http://r.npm.innotechx.com"
     }
   },
   "version": "independent"
