@@ -1,0 +1,22 @@
+{
+  "name": "dep1",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "shanqiu <gengze@innotechx.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/dep1.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "devDependencies": {
+    "eslint": "^6.3.0"
+  }
+}
