@@ -1,6 +1,6 @@
 {
   "name": "w-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "shanqiu <gengze@innotechx.com>",
   "homepage": "",
@@ -20,6 +20,6 @@
     "eslint": "^6.3.0"
   },
   "dependencies": {
-    "dep1": "^1.0.0"
+    "dep1": "^1.0.1"
   }
 }
