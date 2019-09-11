@@ -4,6 +4,9 @@
     "packages/*"
   ],
   "command": {
+    "publish": {
+      "npmClient": "inpm"
+    }
   },
   "version": "independent"
 }

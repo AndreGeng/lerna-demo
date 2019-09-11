@@ -20,6 +20,8 @@
     "eslint": "^6.3.0"
   },
   "dependencies": {
-    "dep1": "^1.0.1"
-  }
+    "dep1": "^1.0.1",
+    "@mt/mock-cli": "^1.2.3"
+  },
+  "gitHead": "5d49d1235f174e78627c6b38bf199ff190cdd322"
 }
