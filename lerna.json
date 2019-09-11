@@ -1,6 +1,9 @@
 {
+  "npmClient": "inpm",
   "packages": [
     "packages/*"
   ],
+  "command": {
+  },
   "version": "independent"
 }
