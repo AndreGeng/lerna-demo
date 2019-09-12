@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@mt/mock-cli": "1.2.2",
-    "dep1": "^1.0.1"
+    "@mt/dep1": "^1.0.1"
   },
   "gitHead": "8c6121d7f871304caa25a516b2fec9119828ea5b"
 }
