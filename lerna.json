@@ -4,11 +4,10 @@
   ],
   "command": {
     "bootstrap": {
-      "npmClientArgs": ["--registry", "http://r.npm.innotechx.com"]
     },
     "publish": {
-      "registry": "http://r.npm.innotechx.com"
     }
   },
+  "registry": "http://r.npm.innotechx.com",
   "version": "independent"
 }
