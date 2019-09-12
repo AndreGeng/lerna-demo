@@ -1,5 +1,6 @@
 {
   "name": "@mt/w-react",
+  "private": true,
   "version": "1.0.3",
   "description": "> TODO: description",
   "author": "shanqiu <gengze@innotechx.com>",
