@@ -1,7 +1,7 @@
 {
   "name": "@mt/w-react",
   "private": true,
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "> TODO: description",
   "author": "shanqiu <gengze@innotechx.com>",
   "homepage": "",
@@ -21,7 +21,7 @@
     "eslint": "^6.3.0"
   },
   "dependencies": {
-    "@mt/dep1": "^1.0.4",
+    "@mt/dep1": "^1.0.5",
     "@mt/mock-cli": "1.2.2"
   }
 }
